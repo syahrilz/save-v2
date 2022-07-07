@@ -1,1 +1,2 @@
-#Dont remake
+$ npm i
+$ node .
